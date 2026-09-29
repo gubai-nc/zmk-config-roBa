@@ -69,7 +69,7 @@
         };
 
         eisu_as_mac {
-            bindings = <&kp LANG2>;
+            bindings = <&kp LANG1>;
             key-positions = <10 11>;
             layers = <LAYER_MAC>;
         };
@@ -137,7 +137,7 @@
 &trans    &trans     &trans  &trans                   &trans                                                                                  &trans  &trans  &trans  &trans  &trans
 &trans    &trans     &trans  &trans                   &trans  &shot_scroll LAYER_SCROLL LC(LS(LG(N4)))      &os_bt LAYER_BLUETOOTH LAYER_MAC  &trans  &trans  &trans  &trans  &trans
 &trans    &trans     &trans  &trans                   &trans  &trans                                        &trans                            &trans  &trans  &trans  &trans  &trans
-&kp LGUI  &kp LCTRL  &trans  &lt LAYER_SYMBOLS LANG1  &trans  &lt LAYER_SCROLL LANG2                        &trans                            &trans                          &trans
+&kp LGUI  &kp LCTRL  &trans  &lt LAYER_SYMBOLS LANG2  &trans  &lt LAYER_SCROLL LANG1                        &trans                            &trans                          &trans
             >;
         };
 
