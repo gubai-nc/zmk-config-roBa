@@ -166,7 +166,7 @@
             bindings = <
 &kp LG(Q)             &kp LG(W)  &kp LG(E)  &kp LG(R)  &kp LG(T)                      &kp LG(LS(Z))  &kp LG(U)  &kp LG(I)  &kp LG(O)  &kp LG(P)
 &kp LG(A)             &kp LG(S)  &kp LG(D)  &kp LG(F)  &kp LG(G)  &trans      &trans  &kp LG(H)      &kp LG(J)  &trans     &kp LG(L)  &trans
-&mt LEFT_SHIFT LG(Z)  &kp LG(X)  &kp LG(C)  &kp LG(V)  &kp LG(B)  &trans      &trans  &kp LG(N)      &trans     &trans     &trans     &trans
+&mt LEFT_SHIFT LG(Z)  &kp LG(X)  &kp LG(C)  &kp LG(V)  &kp LG(B)  &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)  &kp LG(N)      &trans     &trans     &trans     &trans
 &trans                &trans     &trans     &trans     &trans     &trans      &trans  &trans                                          &trans
             >;
         };
