@@ -117,8 +117,8 @@
             display-name = "Windows";
             bindings = <
 &kp Q             &kp W     &kp E     &kp R                         &kp T                                                                                            &kp Y          &kp U  &kp I      &kp O    &kp P
-&kp A             &kp S     &kp D     &kp F                         &kp G                 &shot_scroll LAYER_SCROLL LG(LS(S))      &os_bt LAYER_BLUETOOTH LAYER_MAC  &kp H          &kp J  &kp K      &kp L    &mt RIGHT_SHIFT SEMICOLON
-&mt LEFT_SHIFT Z  &kp X     &kp C     &kp V                         &kp B                 &kp LEFT_BRACKET                         &kp RIGHT_BRACKET                 &kp N          &kp M  &kp COMMA  &kp DOT  &lt LAYER_SCROLL SLASH
+&kp A             &kp S     &kp D     &kp F                         &kp G                 &shot_scroll LAYER_SCROLL LG(LS(S))      &os_bt LAYER_BLUETOOTH LAYER_MAC  &kp H          &kp J  &kp K      &kp L    &lt LAYER_SCROLL SEMICOLON
+&mt LEFT_SHIFT Z  &kp X     &kp C     &kp V                         &kp B                 &kp LEFT_BRACKET                         &kp RIGHT_BRACKET                 &kp N          &kp M  &kp COMMA  &kp DOT  &mt RIGHT_SHIFT SLASH
 &kp LCTRL         &kp LGUI  &kp LALT  &lt LAYER_SYMBOLS LANGUAGE_1  &lt LAYER_EDIT SPACE  &lt 7 LANGUAGE_2                         &kp ENTER                         &kp BACKSPACE                             &kp DELETE
             >;
 
