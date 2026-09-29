@@ -68,12 +68,6 @@
             layers = <LAYER_BASE>;
         };
 
-        eisu_as_mac {
-            bindings = <&kp LANG1>;
-            key-positions = <10 11>;
-            layers = <LAYER_MAC>;
-        };
-
         double_quote_l_semicolon {
             bindings = <&kp DOUBLE_QUOTES>;
             key-positions = <20 21>;
