@@ -133,6 +133,7 @@
 &trans    &trans     &trans  &trans                   &trans  &trans                                        &trans                            &trans  &trans  &trans  &trans  &trans
 &kp LGUI  &kp LCTRL  &trans  &lt LAYER_SYMBOLS LANG2  &trans  &lt LAYER_SCROLL LANG1                        &trans                            &trans                          &trans
             >;
+            sensor-bindings = <&inc_dec_kp PAGE_DOWN PG_UP>;
         };
 
         symbols {
