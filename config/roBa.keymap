@@ -74,7 +74,13 @@
             layers = <LAYER_BASE LAYER_MAC>;
         };
 
-        equal_cv {
+                single_quote_kl {
+            bindings = <&kp SINGLE_QUOTE>;
+            key-positions = <19 20>;
+            layers = <LAYER_BASE LAYER_MAC>;
+        };
+
+equal_cv {
             bindings = <&kp EQUAL>;
             key-positions = <24 25>;
             layers = <LAYER_BASE LAYER_MAC>;
